@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/smotastic/kokolores-twitter-bot/issues"
   },
-  "homepage": "https://github.com/smotastic/kokolores-twitter-bot#readme"
+  "homepage": "https://github.com/smotastic/kokolores-twitter-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
 }
