@@ -19,6 +19,7 @@
   "homepage": "https://github.com/smotastic/kokolores-twitter-bot#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "request": "^2.88.2",
     "twitter-lite": "^0.9.4"
   }
 }
